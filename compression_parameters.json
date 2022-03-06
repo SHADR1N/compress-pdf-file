@@ -1,0 +1,12 @@
+{
+  "input_folder": "D:/Developer/CompressPDF/ImagePDF",
+  "output_folder": "D:/Developer/CompressPDF/ImagePDF/Output",
+  "output_pdf": "D:/Developer/CompressPDF/pdf.pdf",
+  "input_pdf": "D:/Developer/CompressPDF/input.pdf",
+  "quality": 12,
+  "num_splits": 1,
+  "left_crop_px": 50,
+  "top_crop_px": 50,
+  "right_crop_px": 50,
+  "bottom_crop_px": 50
+}
